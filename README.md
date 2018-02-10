@@ -1,3 +1,9 @@
+
+NOTE - Jan 2018: As fun and functional as the search widgets are, most blog sites and web sites are severely cutting back on permissions to post a coded include in any kind of copy-paste space...
+As such, while nothing in the current 2018 v6  release actually breaks the search widget code... we are no longer actively testing changes and updates to ensure it does not get broken in the future ... use at your own risk   ;-)
+
+
+
 widgets-VITA
 ============
 
